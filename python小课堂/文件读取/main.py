@@ -62,5 +62,9 @@ list_txt = get_txt_lines()
 # set_txt_one()
 '''
 
-
-fo = open()
+mkdir = {"666":100,12 : 1}
+fo = open("check.txt",encoding='utf8')
+str = fo.read(10)
+print(str)
+print(mkdir["666"])
+fo.close()
