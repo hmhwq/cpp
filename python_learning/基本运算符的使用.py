@@ -17,9 +17,11 @@ ZeroDivisionError: division by zero
 '''
 
 
-import time
-a = time.time()
-print(time.time())
-b = int(time.time())
-totalYears = b//365//60//24
-print(totalYears)
+# import time
+# a = time.time()
+# print(time.time())
+# b = int(time.time())
+# totalYears = b//365//60//24
+# print(totalYears)
+
+
